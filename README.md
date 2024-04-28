@@ -1,5 +1,5 @@
 # WebServices
-This repository is dedicated to the Job Searching Web Service project, a comprehensive solution designed to facilitate job search and management via web services.
+This repository is dedicated to the University Management Web Service project, a comprehensive solution designed to create Universities, Specialty and manage them via web services.
 
 # Team Members
 COULIBALY Sidiné :sidcoulibaly@outlook.fr / sidine.coulibaly3@etu.cyu.fr
